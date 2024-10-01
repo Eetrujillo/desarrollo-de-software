@@ -16,8 +16,10 @@
         Un disco duro (HDD, por sus siglas en inglés de Hard Disk Drive) es un dispositivo de almacenamiento 
         de datos que utiliza discos magnéticos giratorios para almacenar y recuperar información digital. 
         Es uno de los medios de almacenamiento más comunes en las computadoras debido a su capacidad y costo relativamente bajo.
-    </p>
+    <p>
     <img src="c:\Users\USUARIO\Documents\java\res.jpg" width="600" alt="">
+    </p>
+    
     <h3>
         componentes del disco duro
     </h3>
