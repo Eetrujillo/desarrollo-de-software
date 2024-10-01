@@ -96,9 +96,7 @@
     </table>
 </body>
 
-Laura Ximena Leiton Muñoz <lauraleiton@unimayor.edu.co>
-15:40 (hace 10 minutos)
-para mí
+
 
 <!DOCTYPE html>
 <html lang="en">
