@@ -115,57 +115,7 @@ para mí
         Su propósito principal es facilitar la transferencia de datos y el suministro de energía.
     </P><img src="usb.JPG" alt="imagen de USB">
 
-    <table border="1">
-        <th>
-            experiencias
-        </th>
-        <th>
-            crecimientos
-        </th>
-        <th>
-            aportes
-        </th>
-        <tr>
-            <td>
-                Viajar por todo el mundo
-               
-            </td>
-            <td>
-                Aprender a hablar ingles y muchos más idiomas
-            </td>
-            <td>
-                Crear una forma mas facil para aprender ingles
-            </td>
-        <tr>
-            <td>
-                Tener dinero
-               
-            </td>
-            <td>
-                Aprender a manejar carro
-            </td>
-            <td>
-                Hacer un lugar donde las personas mas nesecitadas puedan ir
-            </td>  
-        </tr>
-        <td>
-            enamorarme
-           
-        </td>
-        <td>
-            Aprender a manejar avion
-        </td>
-        <td>
-            Hacer un libro
-        </td>  
-       
-           
-        </tr>
-    </table>
-    <h4>TRADUCCION</h4>
-    <h3>CAPITULO 17</h3>
-    <P>
-
+    
 CAPÍTULO 17
 
 
