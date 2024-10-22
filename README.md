@@ -26,7 +26,7 @@
     <p>
         Platos Magnéticos: Son discos circulares de metal recubiertos con material magnético. La información se almacena en estos
          platos en forma de campos magnéticos.
-
+6
 
         Cabezas de Lectura/Escritura: Son pequeños componentes electromagnéticos que se encuentran en el extremo de un brazo móvil.
          Estas cabezas se desplazan sobre los platos y son responsables de leer y escribir datos al cambiar el magnetismo de los platos.
@@ -503,7 +503,7 @@ una mentalidad y un conjunto de habilidades que pueden proporcionar un contrapes
 Con todo este tema de startups, probablemente te hayamos hecho reflexionar sobre tu rol actual y hacia dónde quieres progresar en el futuro. Quizás ya tengas una idea clara de hacia dónde te diriges, o quizás ni siquiera hayas pensado en ello.
 
 
-
+https://drive.google.com/file/d/1Yu0g7ag4Kp5YzNQNCyFp2TpcVr5KecSO/view?usp=drive_link
 </P>
 </body>
 </html> 
