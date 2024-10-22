@@ -112,8 +112,7 @@
         Una USB (Universal Serial Bus) es un estándar de conexión que permite la comunicación entre dispositivos y una computadora.
         Su propósito principal es facilitar la transferencia de datos y el suministro de energía.
     </P><img src="usb.JPG" alt="imagen de USB">
-
-    
+   <!--
 CAPÍTULO 17
 
 
@@ -122,7 +121,7 @@ CAPÍTULO 17
 Empresas emergentes
 
 
-
+<!--
 Abres el enlace que Paulo te acaba de enviar.
 
 Una startup local triunfa con una valoración de 3.000 millones de dólares
@@ -502,7 +501,7 @@ una mentalidad y un conjunto de habilidades que pueden proporcionar un contrapes
 
 Con todo este tema de startups, probablemente te hayamos hecho reflexionar sobre tu rol actual y hacia dónde quieres progresar en el futuro. Quizás ya tengas una idea clara de hacia dónde te diriges, o quizás ni siquiera hayas pensado en ello.
 
-
+-->
 https://drive.google.com/file/d/1Yu0g7ag4Kp5YzNQNCyFp2TpcVr5KecSO/view?usp=drive_link
 </P>
 </body>
